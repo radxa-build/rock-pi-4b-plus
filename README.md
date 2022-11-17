@@ -1,9 +1,9 @@
-# ROCK 4B+
-[![Build](https://github.com/radxa-build/rock-4b-plus/workflows/Build/badge.svg)](https://github.com/radxa-build/rock-4b-plus/actions/workflows/build.yml)
+# ROCK Pi 4B+
+[![Build](https://github.com/radxa-build/rock-pi-4b-plus/workflows/Build/badge.svg)](https://github.com/radxa-build/rock-pi-4b-plus/actions/workflows/build.yml)
 
 ## What is this?
 
-This repo is the central location for Radxa-built system images for ROCK 4B+.
+This repo is the central location for Radxa-built system images for ROCK Pi 4B+.
 
 Not all images are officially supported by Radxa. Some of them are only provided as-is with no warranty. Please read below for detailed explanations.
 
@@ -23,7 +23,7 @@ Please visit [our Wiki](https://wiki.radxa.com/Rock4/downloads) for more downloa
 
 ## Where can I download the Radxa image?
 
-Every month new images are [built](https://github.com/radxa-build/rock-4b-plus/actions/workflows/build.yml) and [published](https://github.com/radxa-build/rock-4b-plus/releases) as pre-releases, which serve as release candidates (RC). Radxa will periodically select an RC for additional testing, and once it passes those tests, promote it as an officially supported release. This is why you are always recommended to use [the latest release](https://github.com/radxa-build/rock-4b-plus/releases/latest).
+Every month new images are [built](https://github.com/radxa-build/rock-pi-4b-plus/actions/workflows/build.yml) and [published](https://github.com/radxa-build/rock-pi-4b-plus/releases) as pre-releases, which serve as release candidates (RC). Radxa will periodically select an RC for additional testing, and once it passes those tests, promote it as an officially supported release. This is why you are always recommended to use [the latest release](https://github.com/radxa-build/rock-pi-4b-plus/releases/latest).
 
 ## Help! Something doesn't work!
 

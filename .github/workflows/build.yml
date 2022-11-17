@@ -32,7 +32,7 @@ jobs:
     needs: prepare_release
     strategy:
       matrix:
-        boards: [rock-4b-plus]
+        boards: [rock-pi-4b-plus]
         build_systems: [rbuild, armbian]
         distros: [debian, ubuntu]
         flavors: [kde, cli]
